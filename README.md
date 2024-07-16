@@ -13,7 +13,7 @@ When learning CS, there are some useful sites you must know to get always inform
 
 **Note** : [Chinese Version](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh)
 
-## Index
+## Index 
 <ul>
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#news">News</a></li>
@@ -42,7 +42,7 @@ When learning CS, there are some useful sites you must know to get always inform
 <li><a href="#competitive-programming">Competitive programming</a></li>
 <li><a href="#computer-books">Computer Books</a></li>
 <li><a href="#video-tutorials">Video Tutorials</a></li>
-<li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li>
+<li><a href="#online-compiler-and-sharing-code-snippets">Online Compiler and Sharing Code snippets</a></li> 
 <li><a href="#blogs-of-developers">Blogs of Developers</a></li>
 <li><a href="#for-improving-your-english">For improving your English</a></li>
 <li><a href="#when-you-get-bored-from-cs-related-stuff">When you get bored from CS related stuff</a></li>
